@@ -6,6 +6,8 @@ With over 20 years of experience in digital transformation, platform architectur
 
 ### **👨‍💼 Professional Journey**
 
+![Alt Text](https://www.nintex.com/wp-content/uploads/2024/10/nintex-logo-color.svg)
+
 - **Presales & Solution Design Manager - TSME, UAE (Feb 2023 - Present)**
 - **Partner Success Manager, Emerging Markets - Nintex, UAE (July 2022 - Dec 2022)**
 - **Senior Presales Engineer / Technical Channel Enablement Manager - Nintex, UAE (July 2021 - June 2022)**
