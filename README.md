@@ -22,6 +22,16 @@ With over 20 years of experience in digital transformation, platform architectur
 - **Software Development & System Architecture:** Deep understanding of software engineering principles, agile methodologies, and DevOps practices.
 - **Business Strategy & Go-To-Market (GTM):** Strategic thinker with a track record in partner enablement, product strategy, and customer success management across global markets.
 - **Team Leadership & Mentoring:** Building high-performance teams, mentoring engineers, and aligning technical efforts with business goals for rapid innovation.
+
+### **🧰 Services**
+- **AI Workflow Automation:** Intelligent automation systems that eliminate manual work and scale with you.
+- **AI Strategy Consulting:** Roadmaps that turn AI hype into measurable business outcomes.
+- **Chatbot & AI Agents:** Custom conversational assistants and autonomous agents.
+- **Process Optimization:** Streamlining operations before and beyond automation.
+- **Fractional Tech Leadership:** Part-time CTO/advisor guidance for growing teams.
+- **Delivery Management:** Structure, accountability, and momentum for complex tech programs.
+- **Training Courses:** Hands-on AI & automation programs for teams and individuals.
+- **Speaking & Workshops:** Keynotes and hands-on sessions on AI and the future of work.
   
 ### **🛠️ Technologies**
 Node.js, React, AWS, Azure, SAP BTP, SAP Fiori/SAPUI5, Neptune DXP, Naia, Nintex, Automation Anywhere, webMethods, APIs, CI/CD, microservices, Docker, Kubernetes, GitHub, GitLab, Salesforce, MS Dynamics, IoT, Blockchain, Generative AI / LLMs, RPA, BPM, and DevOps tools.
@@ -36,6 +46,7 @@ Node.js, React, AWS, Azure, SAP BTP, SAP Fiori/SAPUI5, Neptune DXP, Naia, Nintex
 Telecom, Finance, Manufacturing, Government, Healthcare, and Education across the Middle East, Africa, and Europe.
 
 ### **💬 Connect**
-Let's collaborate on innovative technology projects, share insights, and push the boundaries of technology together. Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-abdeen/) or drop me a message.
+Let's collaborate on innovative technology projects, share insights, and push the boundaries of technology together. Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-abdeen/) or Visit [My Website](https://mohamedabdeen.com/) 
+
 ### **✨ Personal Motto**
 Innovate, Connect, Scale
